@@ -1,0 +1,48 @@
+## Business Recommendations Based on 2019 Customer Cohort Retention
+
+**Disclaimer:** I have chosen to focus on the **2019 cohorts** because the dashboard shows they have **full monthly data** and represent the **largest volume of initial customers** (cohort size) compared to the other partial years. This large, complete dataset provides the most robust and actionable insights for retention strategies.
+
+
+## Cohort Analysis Summary
+
+The dashboard provides a **Customer Cohort Retention Rate** heat map. Each row represents a **Cohort** (customers acquired in that specific month), and the columns represent the **Elapsed Month** since their acquisition. The colors and percentages show the proportion of that initial cohort who are still active/retained in the subsequent months. 
+### Key Observations from 2019 Data:
+
+* **Steep Initial Drop-off (Month 1):** Across all 2019 cohorts, there is a **sharp decline** in the retention rate from the initial month (Month 0, which is always 100%) to **Month 1**.
+    * *Example:* The January 2019 cohort drops from 100% to **37.5%** in Month 1. The average drop-off is consistently around 60-65% in the first 30 days.
+* **Stabilization After Month 2:** After the significant Month 1 drop, the churn rate **slows down considerably**. The retention percentages remain relatively stable, trending down gradually after Month 2 or 3.
+    * *Example:* The January 2019 cohort retention goes from 37.5% (Month 1) to 32.7% (Month 2), 30.7% (Month 3), and stabilizes around **28-29%** in the later months.
+* **Stronger Long-Term Retention:** Despite the high initial churn, the customers who are retained past Month 3 show **high loyalty**. The final retention rate for the 2019 cohorts that reached Month 11 or 12 is consistently in the **28% to 35%** range, which is a solid base of loyal customers.
+* **Best Performing Cohort:** The **July 2019 cohort** is a notable outlier, showing a Month 1 retention of **41.7%** and maintaining a high retention rate of **35.7%** by Month 6.
+
+---
+
+## Business Recommendations
+
+The primary focus should be on **improving the retention rate in the critical first month (Month 1 drop-off)**, as this is where the business loses the vast majority of its acquired customers.
+
+### 1. Optimize the Onboarding Experience (High Impact - Focus on Month 1)
+
+The high Month 1 churn suggests a failure in the initial **new customer experience (onboarding)** or a mismatch between the customers acquired and the value they perceive.
+
+* **Actionable Strategy:**
+    * **Enhanced Day 1-7 Communication:** Implement a **personalized, multi-channel communication flow** (email, in-app/push notifications) to ensure new customers discover the **core value proposition** of your product/service within the first week.
+    * **First Milestone/Quick Win:** Clearly define and incentivize a **"first milestone"** (e.g., setting up a profile, making a second purchase, using a key feature) that retained users typically complete. Guide all new users to this milestone rapidly.
+    * **Proactive Support:** Offer a dedicated **"New Customer Success"** resource or quick-start guide to preemptively answer common initial questions and reduce early friction points.
+
+### 2. Analyze Best-Performing Cohort (Medium Impact - Find "Why")
+
+Investigating the best-performing cohort, **July 2019**, can reveal successful acquisition or engagement strategies that can be replicated.
+
+* **Actionable Strategy:**
+    * **Marketing/Acquisition Review:** Determine which **marketing campaigns, channels, or promotions** were active specifically during July 2019. If this cohort was acquired through a specific high-intent channel (e.g., referrals, organic search), allocate more budget there.
+    * **Product/Service Review:** Check if any **product updates, feature launches, or major service improvements** went live in June/July 2019 that may have positively influenced the quality or experience of the customers acquired in July.
+
+### 3. Implement a Loyalty Program (Medium-to-Long-Term Impact)
+
+Since customers retained past Month 3 show strong loyalty, the business should focus on maximizing the **Customer Lifetime Value (CLV)** of this loyal segment.
+
+* **Actionable Strategy:**
+    * **Tiered Loyalty Program:** Introduce a loyalty program that offers increasing rewards for customers who reach and surpass key milestones (e.g., 3-month mark, 6-month mark). This formalizes their loyalty and encourages continued engagement.
+    * **Targeted Re-engagement:** Create specialized campaigns for customers who fall into the **"at-risk"** category (e.g., those who were active in Month 3 but not in Month 4). A personalized offer or a reminder about a valuable feature can prevent them from churning.
+
